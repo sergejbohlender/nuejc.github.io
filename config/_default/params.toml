@@ -13,9 +13,9 @@ replyByEmail = false
 mainSections = ["content"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 disableTextInHeader = false
-backgroundImageWidth = 1200
+#backgroundImageWidth = 1200
 
 defaultBackgroundImage = "background2.JPG" # used as default for background images 
 defaultFeaturedImage = "background2.JPG" # used as default for featured images in all articles
@@ -31,7 +31,7 @@ smartTOCHideUnfocusedChildren = true
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
