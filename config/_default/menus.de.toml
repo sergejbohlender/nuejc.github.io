@@ -1,0 +1,28 @@
+# -- Main Menu --
+[[main]]
+  name = "Anreise"
+  pageRef = "direction"
+  weight = 10
+
+[[main]]
+  identifier = "email"
+  pre = "email"
+  url = "mailto:info@jonglierconvention.de"
+  weight = 200
+
+# -- Footer Menu --
+
+[[footer]]
+  name = "Impressum"
+  pageRef = "impressum"
+  weight = 997
+
+[[footer]]
+  name = "Datenschutz"
+  pageRef = "privacy"
+  weight = 998
+
+[[footer]]
+  name = "info@jonglierconvention.de"
+  url = "mailto:info@jonglierconvention.de"
+  weight = 999
